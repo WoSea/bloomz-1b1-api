@@ -8,7 +8,7 @@
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/wosea/bloomz-1b1-api.git
+    git clone https://github.com/WoSea/bloomz-1b1-api.git
     cd bloomz-1b1-api
     ```
 
